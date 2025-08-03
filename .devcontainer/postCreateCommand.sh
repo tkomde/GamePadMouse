@@ -1,4 +1,4 @@
-sudo apt update && DEBIAN_FRONTEND=noninteractive sudo apt upgrade -y
+sudo apt update && sudo DEBIAN_FRONTEND=noninteractive apt upgrade -y
 wget https://raw.githubusercontent.com/raspberrypi/pico-setup/master/pico_setup.sh
 chmod +x pico_setup.sh
 ./pico_setup.sh

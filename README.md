@@ -8,7 +8,7 @@ This project is possible thanks to [Bluepad32](https://github.com/ricardoquesada
 
 ## Installing
 
-1. Download the latest `.uf2` file from [releases]().
+1. Download the latest `.uf2` file from [releases](https://github.com/tkomde/GamePadMouse/releases/tag/v0.1.0).
 2. Connect the Pico to your PC while holding down the bootsel button.
 3. A folder will appear. Drag and drop the `.uf2` file into it.
 

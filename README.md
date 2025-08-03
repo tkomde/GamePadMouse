@@ -26,7 +26,8 @@ This project is possible thanks to [Bluepad32](https://github.com/ricardoquesada
 
 ## Building
 
-If you want to build from source, follow these steps:
+This repo is compliant to github codespace.
+Or if you want to build from source locally, follow these steps:
 
 1. Install Make, CMake (at least version 3.13), and the GCC cross compiler:
 ```bash

@@ -5,4 +5,5 @@ wget https://raw.githubusercontent.com/raspberrypi/pico-setup/master/pico_setup.
 chmod +x pico_setup.sh
 ./pico_setup.sh
 echo "export PICO_SDK_PATH=/workspaces/pico/pico-sdk" > ~/.bashrc
-echo "exe"
+source ~/.bashrc
+echo -e "Finished.\n\n"

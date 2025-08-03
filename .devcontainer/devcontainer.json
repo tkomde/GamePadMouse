@@ -1,0 +1,15 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:3",
+  "features": {
+    
+  },
+  "customizations": {
+    // Configure properties specific to Codespaces.
+    "codespaces": {
+      "openFiles": [
+        "README.md"
+      ]
+    }
+  },
+  "postCreateCommand": "/bin/sh .devcontainer/postCreateCommand.sh"
+}

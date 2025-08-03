@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.13)
 
 #Defualt to pico_w
-if(NOT DEFINED PICO_BOARD)
-    message(FATAL_ERROR "This program is for Pico W board, please define PICO_BOARD to pico_w")
-endif()
+#if(NOT DEFINED PICO_BOARD)
+#message(FATAL_ERROR "This program is for Pico W board, please define PICO_BOARD to pico_w")
+#endif()
 
 # initialize the SDK based on PICO_SDK_PATH
 # note: this must happen before project()

@@ -35,7 +35,7 @@ sudo apt-get install make cmake gdb-arm-none-eabi gcc-arm-none-eabi build-essent
 2. Install the [Pico SDK](https://github.com/raspberrypi/pico-sdk) and set the `PICO_SDK_PATH` environment variable to the SDK path.
 3. Update submodules (Bluepad32)
 ```bash
-git sunbodule update --init
+git submodule update --init
 ```
 4. Build
 ```bash

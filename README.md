@@ -2,7 +2,7 @@
 
 This is a bridge program that receives Bluetooth Gamepad data on Raspberry Pi Pico W / Pico 2 W and acts as a USB mouse. Currently, it has been tested with Pico/Pico2 W and JOYCON(L). For a list of controllers that are likely to work, see [here](https://bluepad32.readthedocs.io/en/latest/supported_gamepads/).
 
-Demo Video
+[Demo Video](https://x.com/komde/status/1951901380949537029?s=46&t=hOLz1aAYhBY7n4FhnV10EA)
 
 This project is possible thanks to [Bluepad32](https://github.com/ricardoquesada/bluepad32) and [TinyUSB](https://github.com/hathach/tinyusb). The HID bridge was implemented with reference to [PicoSwitch-WirelessGamepadAdapter](https://github.com/juan518munoz/PicoSwitch-WirelessGamepadAdapter).
 
